@@ -1,4 +1,3 @@
-import React from "react";
 import "./LoginForm.css";
 import { FaLock, FaUser } from "react-icons/fa";
 
